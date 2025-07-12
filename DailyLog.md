@@ -195,3 +195,54 @@ I created a calculator program that:
 
 ### Example Command:
 ./calculator add 10 5
+
+# Day - 7         -  Practiced C problems & patterns.  
+(10/07/2025)
+
+==========================================================================================
+
+## C Problem Solving
+- Print N natural numbers  
+- Sum of digits of a number  
+- Reverse a number  
+- Check even or odd  
+- Check prime or not  
+- Factorial using loop  
+- Print Fibonacci series up to N  
+- Check palindrome number  
+- Print multiplication table of N  
+- Count number of digits in a number  
+- Find max of 3 numbers using if-else  
+- Simple calculator (menu-based)  
+- Patterns:
+- Check if character is vowel or consonant  
+- Sum of first N odd numbers
+
+  _Practiced locally, not yet uploaded to GitHub._
+
+
+# Day - 8         -  Started Web Development + Practiced C Array  
+(11/07/2025)
+
+==========================================================================================
+
+## Web Development  
+- Created base folder structure for `HTML`, `CSS`, and `JS`.  
+- Started learning basic HTML: tags, structure, usage.
+
+## C Practice  
+- Find second largest element in an array.  
+- Organizing files & folders (many commits due to setup work).
+
+# Day - 9         -  Continued HTML/CSS and String Exercises in C  
+(12/07/2025)
+
+==========================================================================================
+
+## Web Development  
+- Practiced basic HTML & CSS.  
+- Used tags for headings, paragraphs, images, lists, and links.
+
+## C Programming  
+- Check if string is palindrome  
+- Count vowels, consonants, digits in a string 
