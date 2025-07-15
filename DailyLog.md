@@ -246,3 +246,94 @@ I created a calculator program that:
 ## C Programming  
 - Check if string is palindrome  
 - Count vowels, consonants, digits in a string 
+
+# Day - 10 - CSS Selectors + Practiced Advanced C Programs 
+(13/07/2025)
+
+==========================================================================================
+
+Web Development
+------------------
+
+- Learned in detail about **CSS Selectors**  
+  - Universal selector (`*`)  
+  - Element selector (`p`, `h1`, etc.)  
+  - ID selector (`#id`)  
+  - Class selector (`.class`)  
+  - Grouping selectors  
+  - Descendant & Child selectors  
+  - Pseudo-classes like `:hover`, `:first-child`, `:nth-child()`  
+
+C Programming
+----------------
+
+- Find GCD and LCM of two numbers  
+- Convert lowercase to uppercase (without `strupr()`)  
+- Copy one string to another (without `strcpy`)  
+- Count frequency of each element in an array  
+- Find missing number in array of 1 to N  
+- Check Armstrong number  
+- Find all prime numbers between 1 to N  
+- Transpose a matrix  
+- Check if two strings are anagrams  
+
+---
+
+# Day - 11 - CSS Box Model & More String Exercises in C  
+(14/07/2025)
+
+==========================================================================================
+
+Web Development
+------------------
+
+- Explored **Box Model**, including:  
+  - Content  
+  - Padding  
+  - Border  
+  - Margin  
+
+- Learned about **Color Properties**  
+  - Named colors  
+  - Hex  
+  - RGB  
+  - HSL  
+
+- Did a small **HTML/CSS exercise** using `div` and background-color  
+
+C Programming
+----------------
+
+- Merge two sorted arrays  
+- Reverse a string using function  
+
+---
+
+# Day - 12 - CSS Display Properties + Made a Project in C  
+(15/07/2025)
+
+==========================================================================================
+
+Web Development
+------------------
+
+- Learned about **CSS Display Properties**  
+  - `block`, `inline`, `inline-block`, `none`  
+- Studied **Specificity** and selector weight  
+- Covered basic **sizing units**:  
+  - `px`, `em`, `rem`, `%`, `vh`, `vw`  
+
+C Programming
+----------------
+
+**Student Record System Project**
+
+- Created a menu-based student record system using `struct` and arrays  
+- Features implemented:  
+  - `struct Student` with fields: `roll_no`, `name`, `marks`  
+  - Array of `Student` to hold multiple records  
+  - Functions for:  
+    - Add new student  
+    - Display all students  
+    - Search by name or roll number  
+    - Update student details  
