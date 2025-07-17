@@ -336,4 +336,50 @@ C Programming
     - Add new student  
     - Display all students  
     - Search by name or roll number  
-    - Update student details  
+    - Update student details
+
+# Day - 13 - List Styling & Completed StudentRecordSystem + FileIO  
+(16/07/2025)
+
+==========================================================================================
+
+Web Development
+------------------
+
+- Learned about `list-style-type`, `list-style-position`, and `list-style-image` for custom bullets.
+- Explored `text-shadow` and `box-shadow` for adding depth and effects to elements.
+- Understood the usage of `outline` vs `border`, and how `outline-offset` works.
+- Tried different combinations of list styles and shadows for practice.
+- Practiced using `ul`, `ol`, and `li` with nested lists and icons.
+
+C Programming
+----------------
+
+- Reviewed the `StudentRecordSystem.c` project.
+- Added basic error checking for user input.
+- Analyzed how `struct`, `FILE *`, and loops work together in a mini system.
+
+---
+
+# Day - 14 - Web Dev Revision + Made Tic-Tac-Toe  
+(17/07/2025)
+
+==========================================================================================
+
+Web Development
+------------------
+
+- Revisited key HTML tags (`form`, `input`, `label`, `nav`, `section`, etc.).
+- Reviewed and tested all previous CSS topics like display types, positioning, and specificity.
+- Updated old files to improve code structure, added comments, and cleaned unused code.
+- Practiced a few mini-layouts with `flexbox` and added hover effects.
+
+C Programming
+----------------
+
+- Completed **Tic-Tac-Toe** project (Single-player vs Computer).
+- Used 2D arrays to create the game board.
+- Implemented a basic AI for the computer moves (random empty cell selection).
+- Created a menu loop so users can play multiple games without restarting.
+- Improved user interface in console using clean prompts and board redraws.
+- Added simple score tracking (wins/losses/draws in a session).
