@@ -383,3 +383,66 @@ C Programming
 - Created a menu loop so users can play multiple games without restarting.
 - Improved user interface in console using clean prompts and board redraws.
 - Added simple score tracking (wins/losses/draws in a session).
+
+# Day - 15 - CSS Position & Overflow + Started C++
+(18/07/2025)
+
+==========================================================================================
+
+Web Development
+------------------
+
+- Learned about the CSS **overflow** property (`hidden`, `scroll`, `auto`).
+- Studied the **position** property (`static`, `relative`, `absolute`, `fixed`).
+- Completed **Exercise 3**, which involved creating a responsive card element.
+- Applied various CSS styles to complete the design of the exercise card.
+
+C/C++
+------------------
+
+- Created a new `cpp-programs` folder to begin learning C++.
+- Marked a fresh start into C++ programming, moving from C.
+
+---
+
+# Day - 16 - Media Queries & C++ Basics
+(19/07/2025)
+
+==========================================================================================
+
+Web Development
+------------------
+
+- Learned about **Media Queries** to create responsive web layouts.
+- Completed **Exercise 4**, which focused on building a responsive navigation bar.
+
+C/C++
+------------------
+
+- Studied the basic theory and syntax differences between C and C++.
+- Wrote and executed the first C++ program, `helloworld.cpp`.
+
+---
+
+# Day - 17 - CSS Float/Clear & C++ Fundamentals
+(20/07/2025)
+
+==========================================================================================
+
+Web Development
+------------------
+
+- Learned about the **float** property to allow elements to float next to each other.
+- Understood how to use the **clear** property to stop elements from wrapping around a float.
+
+C/C++
+------------------
+
+- Learned about **variables** and taking user **inputs**.
+- Practiced using **type casting** to convert data types.
+- Worked with different C++ operators:
+  - **Arithmetic** Operators
+  - **Relational** Operators
+  - **Logical** Operators
+  - **Unary** Operators
+- Wrote a simple program to find the **sum of two** numbers.
