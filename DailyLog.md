@@ -446,3 +446,124 @@ C/C++
   - **Logical** Operators
   - **Unary** Operators
 - Wrote a simple program to find the **sum of two** numbers.
+
+# Day - 18 - C++ Control Flow & Web Dev Review
+(21/07/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Reviewed all previously learned HTML and CSS concepts to reinforce understanding.
+
+## C++
+---
+- Learned about control flow structures: `if-else`, `if-else-if`, `for` loops, and `while` loops.
+- Practiced using the **ternary operator** for concise conditional statements.
+- Wrote programs for:
+    - Checking if a number is **even or odd**.
+    - Determining if a character is **uppercase or lowercase**.
+    - Calculating the **sum of numbers from 1 to N**.
+    - Calculating the **sum of odd numbers from 1 to N**.
+
+---
+
+# Day - 19 - C++ Loops & Patterns
+(22/07/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Conducted another thorough check of previous HTML/CSS topics to ensure solid fundamentals.
+
+## C++
+---
+- Learned about the **do-while loop** and the concept of **nested loops**.
+- Wrote programs to solve classic problems:
+    - Checking if a number is **prime**.
+    - Printing a **simple pyramid pattern** using nested loops.
+
+---
+
+# Day - 20 - Academic Focus
+(23/07/2025)
+
+==========================================================================================
+
+- No new topics were covered in Web Development or C++ due to academic commitments with the start of college.
+
+---
+
+# Day - 21 - C++ Pattern Programming
+(24/07/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Paused web development studies to focus on academic priorities.
+
+## C++
+---
+- Continued practicing **nested loops** by creating various patterns:
+    - **Square** pattern.
+    - **Triangle** patterns using stars, numbers, and characters.
+    - **Floyd's Triangle**.
+
+---
+
+# Day - 22 - More C++ Patterns
+(25/07/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- No new web development topics were covered.
+
+## C++
+---
+- Practiced creating more complex patterns, including the **reverse triangle pattern**.
+
+---
+
+# Day - 23 - C++ Functions & Advanced Patterns
+(26/07/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- No new web development topics were covered.
+
+## C++
+---
+- Learned about **functions** in C++ for creating modular and reusable code.
+- Implemented functions to:
+    - Calculate the **sum of numbers from 1 to N**.
+    - Find the **factorial** of a number.
+- Expanded pattern programming skills with:
+    - **Inverted triangle** and **pyramid** patterns (using stars, numbers, and characters).
+    - **Hollow diamond** pattern.
+    - Consolidated different pattern variations into single, more flexible programs.
+
+---
+
+# Day - 24 - Advanced CSS & Layout Exercises
+(27/07/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Learned about more **advanced CSS selectors**.
+- Completed **Exercise 4**, which involved creating a navigation bar with an external stylesheet.
+- Completed **Exercise 5**, creating a page layout with:
+    - A navigation bar and footer.
+    - A main content area with two distinct sections.
+    - A floating icon using `position: fixed` that remains visible on top of all other elements.
+
+## C++
+---
+- Will upload soon on C++ learning.
