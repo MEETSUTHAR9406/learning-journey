@@ -566,7 +566,9 @@ C/C++
 
 ## C++
 ---
-- Will upload soon on C++ learning.
+- Practiced creating more complex patterns, including the **reverse triangle pattern**.
+- Also, Revised old methods properly.
+- Tried some exercises locally.
 
 ---
 
