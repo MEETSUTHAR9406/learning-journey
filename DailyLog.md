@@ -567,3 +567,20 @@ C/C++
 ## C++
 ---
 - Will upload soon on C++ learning.
+
+---
+
+# Day - 25 - C++ basic exercises.
+(28/07/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- No new web development topics were covered.
+
+## C++
+---
+- Did some exercise, One to find the sum of the digits of a number and second one of Learned the topic PassbyValue.
+
+---
