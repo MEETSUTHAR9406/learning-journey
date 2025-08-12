@@ -586,3 +586,59 @@ C/C++
 - Did some exercise, One to find the sum of the digits of a number and second one of Learned the topic PassbyValue.
 
 ---
+
+# Day - 26 - Flexbox & Fibonacci
+(29/07/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Dove into **CSS Flexbox**! Layouts are starting to feel less like a puzzle and more like building with LEGOs.
+- Learned that Flexbox is a one-dimensional layout model, which makes it super easy to align items in a row or column and distribute space among them.
+- Created both the `.html` structure and the corresponding `.css` to practice arranging items, which is a game-changer for responsive design.
+
+## C++
+---
+- Tackled a classic combinatorial problem: calculating **nCr** (the number of combinations).
+- Completed **Exercise 3**, which was to print the **Fibonacci sequence** up to a given number of terms.
+
+---
+
+# Day - 27 - Loops & Number Systems
+(30/07/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Dedicated the day to **reviewing CSS**. Went over Flexbox again to really solidify the concepts and revisited other layout properties to make sure everything was fresh in my mind.
+
+## C++
+---
+- Practiced a variety of fundamental problems:
+    - **Binary to Decimal** conversion.
+    - A simple program to check if a number is **Odd or Even**.
+    - Calculating the **sum of numbers from 1 to N**.
+- Got familiar with the **do-while loop**, understanding how it guarantees at least one execution.
+- Updated **Exercise 1** (printing prime numbers up to N) with better comments for clarity.
+
+---
+
+# Day - 28 - CSS Grid & Prime Functions
+(31/07/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Learned about **CSS Grid**, the powerful two-dimensional layout system. It's amazing for creating complex, grid-based layouts with both rows and columns. 
+- Practiced managing tracks (rows and columns), placing items, and creating responsive grids.
+- Completed an additional exercise to put Grid into practice on a sample webpage layout.
+
+## C++
+---
+- Wrote a program to check if a given number is **prime or not**, but this time I structured the logic inside a reusable **function**.
+- Implemented **Decimal to Binary** conversion, the reverse of yesterday's exercise.
+
+---
