@@ -642,3 +642,205 @@ C/C++
 - Implemented **Decimal to Binary** conversion, the reverse of yesterday's exercise.
 
 ---
+
+# Day - 29 - Bitwise Operators
+(1/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- A pretty straightforward day focused on **reviewing** previous HTML and CSS concepts to keep them sharp.
+
+## C++
+---
+- Opened up a new topic: **bitwise operators**. It's fascinating to see how you can manipulate individual bits of data.
+- Learned about the core bitwise operators: `AND (&)`, `OR (|)`, `XOR (^)`, `NOT (~)`, `Left Shift (<<)`, and `Right Shift (>>)` .
+
+---
+
+# Day - 30 - Bitwise Operations
+(2/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Another day spent **reviewing** and consolidating web development knowledge.
+
+## C++
+---
+- Got hands-on practice with the bitwise operators learned yesterday.
+- Specifically performed operations using:
+    - **Bitwise OR (`|`)**
+    - **Bitwise AND (`&`)**
+    - **Bitwise Shift (`<<` and `>>`)**
+
+---
+
+# Day - 31 - Scope & Precedence
+(3/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- A quick **review** session on the web development front.
+
+## C++
+---
+- Dived into some important C++ theoretical concepts:
+    - **Operator Precedence**: Learned the order in which C++ evaluates different operators in an expression.
+    - **Scope**: Understood the difference between local and global variables and where they can be accessed.
+    - **Data Type Modifiers**: Explored modifiers like `signed`, `unsigned`, `short`, and `long` to alter the range of values a data type can hold.
+
+---
+
+# Day - 32 - CSS Transform & UI Cloning
+(4/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Learned how to use the CSS **`transform` property** to `translate`, `rotate`, `scale`, and `skew` elements. It's really cool for adding depth and interactivity.
+- Started a new project: cloning the UI of the **UltraEdit download page**. 
+- Successfully built the navigation bar and used **CSS Grid** for the main content area. Made it about halfway through the page.
+
+## C++
+---
+- A day dedicated to **reviewing** previous C++ topics and exercises.
+
+---
+
+# Day - 33 - Arrays & Pass by Reference
+(5/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Followed a tutorial to create a **glowing button** effect with CSS. It was a fun exercise in using shadows and animations, though not built from scratch myself. 
+
+## C++
+---
+- Introduced to a fundamental data structure: the **array**.
+- Wrote a program to find the **minimum and maximum** elements within an array.
+- Learned about **pass by reference**, a crucial concept for allowing functions to modify the original array arguments directly, which is much more efficient than copying.
+
+---
+
+# Day - 34 - Transitions & Animations
+(6/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Explored CSS **`transitions`** and **`animations`**.
+- Understood that transitions provide a smooth change between states (like on hover), while animations allow for more complex, multi-step sequences using `@keyframes`.
+
+## C++
+---
+- A solid **review** session, going over arrays and function concepts from yesterday.
+
+---
+
+# Day - 35 - Array Algorithms
+(7/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Spent the day **reviewing** CSS animations and other recent topics.
+
+## C++
+---
+- Practiced more array manipulation algorithms:
+    - Implemented **linear search** to find an element in an array.
+    - Wrote a function to **reverse the elements** of an array in place.
+- Solidified my understanding of the **for loop** for iterating over arrays.
+
+---
+
+# Day - 36 - Bouncing Ball Animation
+(8/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Created a **bouncing ball animation** using CSS! 
+- This was a great practical exercise that combined the `animation` property with `@keyframes` to create continuous, realistic motion.
+
+## C++
+---
+- Another day of **reviewing** C++ fundamentals, especially array-based problems.
+
+---
+
+# Day - 37 - Sum of Array
+(9/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- A quick **review** day for web development concepts.
+
+## C++
+---
+- Wrote a C++ program to calculate the **sum of all numbers** within an array. A simple but essential algorithm to know.
+
+---
+
+# Day - 38 - Netflix Clone & CSS Filters
+(10/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Learned about the CSS **`object-fit`** and **`object-position`** properties, which are super useful for controlling how images and videos fit within their containers without getting distorted.
+- Explored CSS **`filter`s** like `blur()`, `brightness()`, and `grayscale()` to apply graphical effects to elements.
+- **Started a major new project: a UI Clone of Netflix!**  Created a new folder in my `fullstack-journey` repository to get things started.
+
+## C++
+---
+- A day dedicated to **reviewing** various C++ topics covered so far.
+
+---
+
+# Day - 39 - Vectors & Netflix Clone Progress
+(11/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Made some good progress on the **Netflix UI clone**. It's starting to take shape.
+
+## C++
+---
+- Learned about C++ **`std::vector`**, the dynamic array of the C++ world.
+- Studied common vector **methods and functions**, such as:
+    - `push_back()` to add elements.
+    - `pop_back()` to remove elements.
+    - `size()` to get the number of elements.
+    - `begin()` and `end()` for iterators.
+
+---
+
+# Day - 40 - Netflix Navbar & C++ Practice
+(12/8/2025)
+
+==========================================================================================
+
+## Web Development
+---
+- Focused on the **Netflix UI Clone** and almost completed the navigation bar. It's looking pretty close to the real thing!
+
+## C++
+---
+- Updated Exercise1
