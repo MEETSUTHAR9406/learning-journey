@@ -844,3 +844,11 @@ C/C++
 ## C++
 ---
 - Updated Exercise1
+
+# Day - 67 
+(08/09/2025)
+
+==========================================================================================
+
+I think today won't be any commits of learning cause of Assignments and Practicals of College.
+See you tomorrow. Great learning.
