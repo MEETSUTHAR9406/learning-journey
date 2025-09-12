@@ -867,3 +867,10 @@ I will soon upload the content of the learning through 1-68 days completely. Gre
 
 I think today won't be any commits or learning. 😴
 I will soon upload the content of the learning through 1-70 days completely. Greate learning.
+
+# Day - 71
+(12/09/2025)
+
+==========================================================================================
+
+- Soon gonna start Javascript. (Probably after completion of Netflix UI Clone)
