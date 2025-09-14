@@ -874,3 +874,6 @@ I will soon upload the content of the learning through 1-70 days completely. Gre
 ==========================================================================================
 
 - Soon gonna start Javascript. (Probably after completion of Netflix UI Clone)
+
+
+No logs today
