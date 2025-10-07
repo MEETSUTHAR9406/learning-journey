@@ -868,17 +868,6 @@ I will soon upload the content of the learning through 1-68 days completely. Gre
 I think today won't be any commits or learning. 😴
 I will soon upload the content of the learning through 1-70 days completely. Greate learning.
 
-# Day - 71
-(12/09/2025)
+## Today is almost 96th day after starting my journey. There were many ups and downs while learning and implementing but i think i'm going to close this [DailyLog.md](https://github.com/MEETSUTHAR9406/learning-journey/blob/main/DailyLog.md).
 
-==========================================================================================
-
-- Soon gonna start Javascript. (Probably after completion of Netflix UI Clone)
-
-
-No logs today
-No logs today either
-Same today (17/9/2025)
-Today either won't be any logs or learning 
-I guess no logs today either (22/9)
-Just a break of today (24/9)
+## I'm going to stop posting to this DailyLog.md but the learning will continue as smooth as always. I enjoyed it, hope you also.
